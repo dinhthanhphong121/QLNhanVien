@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+      "projectUniqueName": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
       "projectName": "EmployeeManagement.Models",
-      "projectPath": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+      "projectPath": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
       "packagesPath": "C:\\Users\\DTPHONG\\.nuget\\packages\\",
-      "outputPath": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Models\\obj\\",
+      "outputPath": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTPHONG\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,3 +10,15 @@ D:\asp_net\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeMan
 D:\asp_net\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.dll
 D:\asp_net\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\ref\EmployeeManagement.Models.dll
 D:\asp_net\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.pdb
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.deps.json
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.dll
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\ref\EmployeeManagement.Models.dll
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.pdb
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.csproj.AssemblyReference.cache
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.AssemblyInfoInputs.cache
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.AssemblyInfo.cs
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.dll
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\ref\EmployeeManagement.Models.dll
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.pdb

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+      "projectUniqueName": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
       "projectName": "EmployeeManagement.Web",
-      "projectPath": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+      "projectPath": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
       "packagesPath": "C:\\Users\\DTPHONG\\.nuget\\packages\\",
-      "outputPath": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Web\\obj\\",
+      "outputPath": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTPHONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
-              "projectPath": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+            "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+              "projectPath": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
             }
           }
         }

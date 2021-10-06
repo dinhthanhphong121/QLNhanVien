@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdUyFoObJSL0b0uidsYQpO5mB9KaJ10ONU69NnFm/cUKMPT3EqaaCD8N5uKTTT8VfRul1md5hvuQ2NdpKR2kow==",
+  "dgSpecHash": "OLBI3HcXrGeMR76S1MUqR9SXwuIkx/zpsIGyrgRsD3kJFv1Ft+AwQN5D2Tqs2itfzeLcKhTsT0akfL7wzRt4ZQ==",
   "success": true,
-  "projectFilePath": "D:\\asp_net\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+  "projectFilePath": "D:\\GitHub\\QLNhanVien\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
