@@ -22,7 +22,6 @@ D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\stat
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\staticwebassets\EmployeeManagement.Api.StaticWebAssets.xml
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.Api.styles.css
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.RazorTargetAssemblyInfo.cache
-D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csproj.CopyComplete
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.dll
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\ref\EmployeeManagement.Api.dll
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.pdb

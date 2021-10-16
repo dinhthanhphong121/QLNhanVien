@@ -106,3 +106,4 @@ D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\Empl
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\ref\EmployeeManagement.Web.dll
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement.Web.pdb
 D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement.Web.genruntimeconfig.cache
+D:\GitHub\QLNhanVien\BlazorTutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
